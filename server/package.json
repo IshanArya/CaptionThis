@@ -1,0 +1,25 @@
+{
+  "name": "captionthis",
+  "version": "1.0.0",
+  "description": "To add subtitles to HTML5 videos",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IshanArya/CaptionThis.git"
+  },
+  "keywords": [
+    "subtitles"
+  ],
+  "author": "Cindr",
+  "license": "SEE LICENSE IN \"LICENSE.md\"",
+  "bugs": {
+    "url": "https://github.com/IshanArya/CaptionThis/issues"
+  },
+  "homepage": "https://github.com/IshanArya/CaptionThis#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
